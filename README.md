@@ -1,2 +1,0 @@
-# Fingers
-My New Project
